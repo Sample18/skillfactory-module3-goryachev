@@ -112,6 +112,7 @@ h1 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	border-radius: 5px;
 }
 .contactus > a {
 	color: white;
@@ -154,6 +155,7 @@ h1 {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	border-radius: 5px;
 }
 .learn > a {
 	color: rgba(255, 45, 45, 1);
@@ -493,7 +495,7 @@ h1 {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 16px;
-
+	border-radius: 5px;
 }
 #form2 {
 	margin: 0;
@@ -510,6 +512,7 @@ h1 {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17.9026px;
+	border-radius: 5px;
 }
 .floor6 {
 	height: 862px;
@@ -579,6 +582,7 @@ h1 {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 15.9134px;
+	border-radius: 5px;
 }
 #mail {
 	margin: 0;
@@ -594,6 +598,7 @@ h1 {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 15.9134px;
+	border-radius: 5px;
 }
 #message-box {
 	margin: 0;
@@ -609,6 +614,7 @@ h1 {
 	font-style: normal;
 	font-weight: normal;
 	font-size: 15.9134px;
+	border-radius: 5px;
 }
 #send-m {
 	margin: 0;
@@ -625,6 +631,7 @@ h1 {
 	font-style: normal;
 	font-weight: bold;
 	font-size: 17.9026px;
+	border-radius: 5px;
 }
 aside {
 	margin: 0;
